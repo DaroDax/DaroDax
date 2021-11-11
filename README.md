@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Desing and FullStack way
 - 🌱 I’m currently learning React and Node tecnologies
 - 💞️ I’m looking to collaborate on PHP,HTML,CSS,JAVASCRIPT
-- 📫 How to reach me ...
+- 📫 How to reach me darwingiraldo0304@gmail.com or +57 350 612 2944
 
 <!---
 DaroDax/DaroDax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
